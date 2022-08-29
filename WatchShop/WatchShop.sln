@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatchShop", "WatchShop.csproj", "{CBD64D59-9858-4589-B7F9-63DAA5F25205}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopOnline.Api", "..\ShopOnline.Api\ShopOnline.Api.csproj", "{CDAA1857-6D66-42B4-AF28-370CAE4DF482}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopOnline.Models", "..\ShopOnline.Models\ShopOnline.Models.csproj", "{6A23E304-1C1E-4500-BDE7-A05C87DE61F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD64D59-9858-4589-B7F9-63DAA5F25205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD64D59-9858-4589-B7F9-63DAA5F25205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD64D59-9858-4589-B7F9-63DAA5F25205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD64D59-9858-4589-B7F9-63DAA5F25205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAA1857-6D66-42B4-AF28-370CAE4DF482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAA1857-6D66-42B4-AF28-370CAE4DF482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAA1857-6D66-42B4-AF28-370CAE4DF482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAA1857-6D66-42B4-AF28-370CAE4DF482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A23E304-1C1E-4500-BDE7-A05C87DE61F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A23E304-1C1E-4500-BDE7-A05C87DE61F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A23E304-1C1E-4500-BDE7-A05C87DE61F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A23E304-1C1E-4500-BDE7-A05C87DE61F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4D4085D-E69D-43B1-93CA-066C970B4272}
+	EndGlobalSection
+EndGlobal

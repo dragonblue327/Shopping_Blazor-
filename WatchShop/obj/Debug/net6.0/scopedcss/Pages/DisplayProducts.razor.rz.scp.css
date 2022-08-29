@@ -1,0 +1,24 @@
+a[b-p4a4xv34bc] {
+    text-decoration: none;
+}
+
+a:hover .card[b-p4a4xv34bc] {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: box-shadow 0.3s ease-in-out;
+
+}
+
+.card[b-p4a4xv34bc] {
+    transition: box-shadow 0.3s ease-in-out ;
+    overflow: hidden;
+
+}
+
+a:hover img[b-p4a4xv34bc] {
+    transform: scale(1.07);
+    transition: 0.5s ease-in-out;
+}
+
+img[b-p4a4xv34bc] {
+    transition: 0.5s ease-in-out;
+}
